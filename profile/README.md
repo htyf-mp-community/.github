@@ -1,6 +1,6 @@
 # 红糖云服App 👋
 
-![](./header_1.png)
+![](https://github.com/htyf-mp-community/.github/blob/main/profile/header_1.png?raw=true)
 
 一款可独立开发、独立部署、独立更新、无需审核的小程序开发测试容器. 🌈    
 
