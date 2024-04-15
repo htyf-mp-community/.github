@@ -1,6 +1,6 @@
 # 红糖云服App 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](./header_1.png)
 
 一款可独立开发、独立部署、独立更新、无需审核的小程序开发测试容器. 🌈    
 
