@@ -4,6 +4,8 @@
 
 一款可独立开发、独立部署、独立更新、无需审核的小程序开发测试容器. 🌈    
 
+>✨ 支持实时上线ios/android体验测试,  ✨ 实时更新，无需审核
+
 * 🎓   可使用多套开发模板
 * 🌱   支持 ✨ [Taro](https://docs.taro.zone/docs/) 开发多端小程序(微信/京东/百度/支付宝/字节跳动/QQ/飞书 小程序/ H5)
 * 📚   支持 ✨ [React-native](https://reactnative.dev/) 开发更完善的应用(ios/android)
