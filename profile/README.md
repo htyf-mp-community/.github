@@ -18,4 +18,6 @@
 
 # 
 > ✨ [立即下载体验: https://mp.dagouzhi.com/](https://mp.dagouzhi.com/)
+>
+> ✨ [开发文档: https://mp.dagouzhi.com/docs](https://mp.dagouzhi.com/docs)
 
