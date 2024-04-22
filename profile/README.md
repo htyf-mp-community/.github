@@ -19,5 +19,5 @@
 # 
 > ✨ [立即下载体验: https://mp.dagouzhi.com/](https://mp.dagouzhi.com/)
 >
-> ✨ [开发文档: (https://mp.dagouzhi.com/docs/GETTING-STARTED](https://mp.dagouzhi.com/docs/GETTING-STARTED)
+> ✨ [开发文档: https://mp.dagouzhi.com/docs/GETTING-STARTED](https://mp.dagouzhi.com/docs/GETTING-STARTED)
 
