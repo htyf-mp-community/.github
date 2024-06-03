@@ -2,7 +2,7 @@
 
 ![](https://github.com/htyf-mp-community/.github/blob/main/profile/header_1.png?raw=true)
 
-一款自由的小程序容器，打造私有化平台，可助自有 App 运行小程序，实现快速动态化架构构建，兼容主流且代码一次开发多端投放. 🌈    
+一款自由的小程序容器，打造私有化平台，可助自有 App 运行小程序，实现快速动态化架构构建，代码一次开发多端投放. 🌈    
 
 >✨ 支持实时上线ios/android体验测试
 
