@@ -1,6 +1,6 @@
 # [红糖云服App](https://mp.dagouzhi.com/) 👋
 
-![](https://github.com/htyf-mp-community/.github/blob/main/profile/header_1.png?raw=true)
+![](https://github.com/htyf-mp-community/.github/blob/main/profile/header_2.png?raw=true)
 
 一款自由的小程序容器，打造私有化平台，可助自有 App 运行小程序，实现快速动态化架构构建，代码一次开发多端投放. 🌈    
 
